@@ -15,3 +15,7 @@ header {
 h1 {
     font-size: large;
 }
+.pict {
+    height: 400px;
+    width: 400px;
+}
