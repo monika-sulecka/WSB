@@ -1,18 +1,13 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 
 body {
     height: 100vh;
     font-family: 'Ubuntu', sans-serif;
-    overflow: hidden;
-    color: #fff;
-    background: linear-gradient(10deg, #87ff24 60%, #2cfb6a 60%);
+   
+    color: #000000;
+    background: linear-gradient(10deg, #2824ff 60%, #632cfb 60%);
 }
 
 header {
     padding: 20px;
-    background-color: #36ff24;
+    background-color: #2428ff;
 }
