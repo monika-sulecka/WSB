@@ -15,6 +15,9 @@ header {
 h1 {
     font-size: large;
 }
+h3 {
+    font-size: medium;
+}
 .pict {
     height: 400px;
     width: 400px;
