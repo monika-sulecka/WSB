@@ -14,14 +14,20 @@ header {
 
 h1 {
     font-size: large;
+    text-align: center;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px 2px;
 }
 h3 {
     font-size: medium;
+    text-align: center;
 }
 .pict {
-    height: 400px;
-    width: 400px;
+    display: block;
+    height: 90%;
+    margin:auto;
 }
 p {
     font-size: medium;
+    text-align: center;
 }
